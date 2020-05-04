@@ -1,0 +1,37 @@
+.container-fluid{
+    background-color: mediumpurple;
+    font-family: serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.img-container{
+    position: relative;
+}
+
+.img-container img{
+    width: 100%;
+}
+
+.img-container h2{
+    position: absolute;
+    background-color: mistyrose;
+    padding: 1px 1px;
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+}
+
+.form-group{
+    position: 
+}
+
+.footer{
+    background-color: salmon;
+    left: 0px;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+}
