@@ -1,12 +1,13 @@
 .container-fluid{
     background-color: mediumpurple;
-    font-family: serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     font-size: 30px;
 }
 
 .img-container{
     position: relative;
+    bottom: -100px;
 }
 
 .img-container img{
@@ -15,7 +16,8 @@
 
 .img-container h2{
     position: absolute;
-    background-color: mistyrose;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
     padding: 1px 1px;
     width: 100%;
     text-align: center;
